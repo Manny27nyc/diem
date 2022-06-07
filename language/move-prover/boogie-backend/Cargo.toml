@@ -27,6 +27,6 @@ regex = "1.4.3"
 rand = "0.8.3"
 futures = "0.3.12"
 tera = "1.7.1"
-tokio = { version = "1.8.1", features = ["full"] }
+tokio = { version = "1.16.1", features = ["full"] }
 codespan = "0.11.1"
 codespan-reporting = "0.11.1"
