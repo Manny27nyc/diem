@@ -8,7 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "docsearch.js": "^2.6.3",
-    "prism-react-renderer": "^1.1.1",
+    "prism-react-renderer": "^2.0.6",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-cookie-consent": "^5.1.3",
