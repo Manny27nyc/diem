@@ -12,9 +12,9 @@
     "deploy-staging": "npm run build-staging && npx now"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.4",
+    "@docusaurus/core": "^3.0.0",
     "@docusaurus/plugin-client-redirects": "^2.0.0-beta.4",
-    "@docusaurus/preset-classic": "^2.0.0-beta.4",
+    "@docusaurus/preset-classic": "^3.0.0",
     "@libra-opensource/diem-docusaurus-components": "file:src/@libra-opensource/diem-docusaurus-components",
     "@svgr/webpack": "^5.5.0",
     "bootstrap": "^4.6.0",
