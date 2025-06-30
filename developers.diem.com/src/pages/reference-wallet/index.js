@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import Layout from '@theme/Layout';
 import styles from './styles.module.css';

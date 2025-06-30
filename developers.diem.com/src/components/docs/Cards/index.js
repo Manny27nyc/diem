@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import CardsWrapper from './CardsWrapper';
 import ColorCard from './ColorCard';
 import SDKCard from './SDKCard';

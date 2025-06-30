@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * github-buttons v2.2.9
  * (c) 2019 なつき

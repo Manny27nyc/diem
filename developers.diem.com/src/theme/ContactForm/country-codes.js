@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * See: https://github.com/samayo/country-json/blob/master/src/country-by-abbreviation.json
  * See: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.json

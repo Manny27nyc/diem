@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BlockQuote from './BlockQuote';
 import BlogRedirect from './BlogRedirect';
 import Cards from './Cards';

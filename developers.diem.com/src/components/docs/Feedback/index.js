@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {useContext, useState} from 'react';
 
 import { CookieContext } from 'diem-docusaurus-components';

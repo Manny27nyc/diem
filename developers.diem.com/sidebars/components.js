@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { isWebUri } = require('valid-url');
 const path = require('path');
 

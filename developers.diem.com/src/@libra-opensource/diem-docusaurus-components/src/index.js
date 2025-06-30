@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Exported first as it is used by the below modules */
 const utils = require('./utils');
 

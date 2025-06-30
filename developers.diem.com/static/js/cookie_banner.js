@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 document.addEventListener('DOMContentLoaded', function(event) {
   const cookieKey = 'diem-developer-website.cookies-accepted';
   const cookiesAccepted = localStorage.getItem(cookieKey);

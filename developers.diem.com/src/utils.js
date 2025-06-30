@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 import utils from 'diem-docusaurus-components/src/utils';

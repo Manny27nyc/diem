@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import NativeComponents from '@theme-original/MDXComponents';
 import DocComponents from 'components/docs';

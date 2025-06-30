@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const {category, standaloneLink} = require("./components");
 
 const Move = category('Move', [

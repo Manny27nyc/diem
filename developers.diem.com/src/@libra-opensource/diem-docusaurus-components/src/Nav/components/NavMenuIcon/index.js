@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {useEffect, useRef} from 'react';
 import styles from './styles.module.css';
 

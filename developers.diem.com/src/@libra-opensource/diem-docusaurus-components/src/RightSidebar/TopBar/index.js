@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {useCallback} from 'react';
 import PropTypes from 'prop-types';
 import WithBackgroundImage from '../../WithBackgroundImage';
